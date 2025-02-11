@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:drawable="@drawable/$payu_loader__0">
+    <target android:name="u" android:animation="@drawable/$payu_loader__1"/>
+    <target android:name="one" android:animation="@drawable/$payu_loader__2"/>
+    <target android:name="pay" android:animation="@drawable/$payu_loader__3"/>
+    <target android:name="twoo" android:animation="@drawable/$payu_loader__4"/>
+    <target android:name="three" android:animation="@drawable/$payu_loader__5"/>
+</animated-vector>

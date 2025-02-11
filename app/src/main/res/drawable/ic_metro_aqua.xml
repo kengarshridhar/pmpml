@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:height="33.73dp" android:width="22dp" android:viewportWidth="22" android:viewportHeight="33.73">
+    <path android:fillColor="@color/metro_aqua" android:pathData="M11,22.73m-10.5,0a10.5,10.5 0,1 1,21 0a10.5,10.5 0,1 1,-21 0" android:strokeColor="#03cdcd" android:strokeWidth="1"/>
+    <path android:fillColor="#fff" android:pathData="M11,16.06c-2.67,0 -5.33,0.33 -5.33,2.67v6.33A2.34,2.34 0,0 0,8 27.39l-0.77,0.77a0.33,0.33 0,0 0,0.24 0.57L8.2,28.73a0.31,0.31 0,0 0,0.23 -0.1l1.23,-1.23h2.67l1.23,1.23a0.34,0.34 0,0 0,0.23 0.1h0.73a0.33,0.33 0,0 0,0.23 -0.57L14,27.39a2.34,2.34 0,0 0,2.33 -2.33L16.33,18.73C16.33,16.39 13.67,16.06 11,16.06ZM8,26.06a1,1 0,1 1,1 -1A1,1 0,0 1,8 26.06ZM10.33,21.39L7,21.39L7,18.73h3.33ZM14,26.06a1,1 0,1 1,1 -1A1,1 0,0 1,14 26.06ZM15,21.39L11.67,21.39L11.67,18.73L15,18.73Z"/>
+    <path android:fillColor="@color/metro_aqua" android:pathData="M11,1.04l-4.5,8.19l9,0l-4.5,-8.19z" android:strokeColor="#03cdcd" android:strokeWidth="1"/>
+</vector>
